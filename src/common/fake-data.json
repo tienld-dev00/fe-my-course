@@ -1,0 +1,468 @@
+{
+    "coursesStudio": [
+        {
+            "id": 1,
+            "title": "VUE JS SCRATCH COURSE",
+            "thumbnail": "https://files.catbox.moe/ogbvnf.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 2522
+        },
+        {
+            "id": 2,
+            "title": "UI DESIGN FOR BEGINNERS",
+            "thumbnail": "https://files.catbox.moe/pfukhl.png",
+            "instructor_name": "Kitani Studio",
+            "description": "Learn how to make web application with Vue.js Framework.",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25333
+        },
+        {
+            "id": 3,
+            "title": "MOBILE DEV REACT NATIVE",
+            "thumbnail": "https://files.catbox.moe/63vpxv.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 2522334
+        },
+        {
+            "id": 4,
+            "title": "WEBSITE DEV ZERO TO HERO",
+            "thumbnail": "https://files.catbox.moe/x3ytxy.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25
+        }
+    ],
+    "coursesTrending": [
+        {
+            "id": 1,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/vq87tz.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 2512
+        },
+        {
+            "id": 2,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/blx1yj.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 253123
+        },
+        {
+            "id": 3,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/4vgp03.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 252
+        },
+        {
+            "id": 4,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/66rwje.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 251231
+        },
+        {
+            "id": 5,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/shqij9.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 251
+        },
+        {
+            "id": 6,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/s79dmz.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25
+        },
+        {
+            "id": 7,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/f8i1rh.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25123123
+        },
+        {
+            "id": 8,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/oja1ny.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25
+        }
+    ],
+    "coursesSearch": [
+        {
+            "id": 1,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/vq87tz.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 25123
+        },
+        {
+            "id": 2,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/blx1yj.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 251
+        },
+        {
+            "id": 3,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/4vgp03.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 12313
+        },
+        {
+            "id": 4,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/66rwje.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 13
+        },
+        {
+            "id": 5,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/shqij9.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 12312
+        },
+        {
+            "id": 6,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/s79dmz.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 123123
+        },
+        {
+            "id": 7,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/f8i1rh.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 12312
+        },
+        {
+            "id": 8,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/oja1ny.png",
+            "instructor_name": "Kitani Studio",
+            "description": "More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+            "price": 32.9,
+            "sale_off": 20,
+            "rating": 4.5,
+            "rating_count": 251
+        }
+    ],
+    "myCourses": [
+        {
+            "id": 1,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/vq87tz.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 1
+        },
+        {
+            "id": 2,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/blx1yj.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 8
+        },
+        {
+            "id": 3,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/4vgp03.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 0
+        },
+        {
+            "id": 4,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/66rwje.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 3
+        },
+        {
+            "id": 5,
+            "title": "Adobe Illustrator Scretch Course",
+            "thumbnail": "https://files.catbox.moe/shqij9.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 3
+        },
+        {
+            "id": 6,
+            "title": "Bootcamp  Vue.js Web Framework",
+            "thumbnail": "https://files.catbox.moe/s79dmz.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 3
+        },
+        {
+            "id": 7,
+            "title": "Design Fundamentals",
+            "thumbnail": "https://files.catbox.moe/f8i1rh.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 3
+        },
+        {
+            "id": 8,
+            "title": "Ionic - Build iOS, Android & Web...",
+            "thumbnail": "https://files.catbox.moe/oja1ny.png",
+            "instructor_name": "Kitani Studio",
+            "video_count": 8,
+            "completed_video_count": 3
+        }
+    ],
+    "instructors": [
+        {
+            "id": 1,
+            "name": "Alexander Bastian",
+            "avatar": "https://files.catbox.moe/xe7s1q.png",
+            "expertise": "Expert Mobile Engineer"
+        },
+        {
+            "id": 2,
+            "name": "Labie Carthaline",
+            "avatar": "https://files.catbox.moe/uo8arr.png",
+            "expertise": "Marketing Specialist"
+        },
+        {
+            "id": 3,
+            "name": "Jonathan Doe",
+            "avatar": "https://files.catbox.moe/q6g7up.png",
+            "expertise": "Financial Strategiest"
+        },
+        {
+            "id": 4,
+            "name": "Kitani Sarasvati",
+            "avatar": "https://files.catbox.moe/vkxzwt.png",
+            "expertise": "Film Maker & Director"
+        }
+    ],
+    "slides": [
+        {
+            "id": 1,
+            "instructor": {
+                "avatar": "https://files.catbox.moe/gx0va5.png",
+                "expertise": "Photographer",
+                "name": "Jessica Wong"
+            },
+            "background_image": "https://files.catbox.moe/q7pbtc.png",
+            "headline1": "Winner Photo 2017 Awwards",
+            "headline2": "Joined Klevr since 2006",
+            "slogan": "Learn something new everyday.",
+            "sub_slogan": "Become professionals and ready to join the world."
+        },
+        {
+            "id": 2,
+            "instructor": {
+                "avatar": "https://files.catbox.moe/0prlj9.png",
+                "expertise": "Toys Photographer",
+                "name": "Jane Kitani"
+            },
+            "background_image": "https://files.catbox.moe/s08voh.png",
+            "headline1": "Winner Photo 2018 Awwards",
+            "headline2": "Joined Klevr since 2006",
+            "slogan": "Learn something new everyday.",
+            "sub_slogan": "Become professionals and ready to join the world."
+        }
+    ],
+    "courseReviews": [
+        {
+            "id": 1,
+            "avatar": "https://files.catbox.moe/29khuv.png",
+            "username": "Leonardo  Da Vinci",
+            "created_at": "today",
+            "comment": "Loved the course. I've learned some very subtle tecniques, expecially on leaves."
+        },
+        {
+            "id": 2,
+            "avatar": "https://files.catbox.moe/nlquxq.png",
+            "username": "Titania  S",
+            "created_at": "today",
+            "comment": "I loved the course, it had been a long time since I had experimented with watercolors and now I will do it more often thanks to Kitani Studio"
+        },
+        {
+            "id": 3,
+            "avatar": "https://files.catbox.moe/7j6p39.png",
+            "username": "Zhirkov",
+            "created_at": "today",
+            "comment": "Yes. I just emphasize that the use of Photoshop, for non-users, becomes difficult to follow. What requires a course to master it. Safe and very didactic teacher."
+        },
+        {
+            "id": 4,
+            "avatar": "https://files.catbox.moe/0piyio.png",
+            "username": "Miphoska",
+            "created_at": "today",
+            "comment": "I haven't finished the course yet, as I would like to have some feedback from the teacher, about the comments I shared on the forum 3 months ago, and I still haven't had any answer. \\nI think the course is well structured, however the explanations and videos are very quick for beginners. However, it is good to go practicing."
+        }
+    ],
+    "courseCategories": [
+        {
+            "id": 1,
+            "title": "All Recommendation"
+        },
+        {
+            "id": 2,
+            "title": "Adobe Illustrator"
+        },
+        {
+            "id": 3,
+            "title": "Adobe Photoshop"
+        },
+        {
+            "id": 4,
+            "title": "UI Design"
+        },
+        {
+            "id": 5,
+            "title": "Web Programming"
+        },
+        {
+            "id": 6,
+            "title": "Mobile Programming"
+        },
+        {
+            "id": 7,
+            "title": "Backend Development"
+        },
+        {
+            "id": 8,
+            "title": "Vue JS"
+        }
+    ],
+    "userLogin": {
+        "user": {
+            "id": 1,
+            "name": "Duc Tien",
+            "avatar": "https://files.catbox.moe/nfwze4.png",
+            "email": "example@gmail.com"
+        },
+        "access_token": "abc"
+    },
+    "courseDetail": {
+        "id": 1,
+        "title": "Make Uber Clone App",
+        "thumbnail": "https://files.catbox.moe/66rwje.png",
+        "instructor_name": "Ana Kursova",
+        "description": "Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.",
+        "price": 30.13,
+        "sale_off": 20,
+        "reviews": [
+            {
+                "id": 1,
+                "avatar": "https://files.catbox.moe/29khuv.png",
+                "username": "Leonardo  Da Vinci",
+                "created_at": "today",
+                "comment": "Loved the course. I've learned some very subtle tecniques, expecially on leaves."
+            },
+            {
+                "id": 2,
+                "avatar": "https://files.catbox.moe/nlquxq.png",
+                "username": "Titania  S",
+                "created_at": "today",
+                "comment": "I loved the course, it had been a long time since I had experimented with watercolors and now I will do it more often thanks to Kitani Studio"
+            },
+            {
+                "id": 3,
+                "avatar": "https://files.catbox.moe/7j6p39.png",
+                "username": "Zhirkov",
+                "created_at": "today",
+                "comment": "Yes. I just emphasize that the use of Photoshop, for non-users, becomes difficult to follow. What requires a course to master it. Safe and very didactic teacher."
+            },
+            {
+                "id": 4,
+                "avatar": "https://files.catbox.moe/0piyio.png",
+                "username": "Miphoska",
+                "created_at": "today",
+                "comment": "I haven't finished the course yet, as I would like to have some feedback from the teacher, about the comments I shared on the forum 3 months ago, and I still haven't had any answer. \\\\nI think the course is well structured, however the explanations and videos are very quick for beginners. However, it is good to go practicing."
+            }
+        ],
+        "section_count": 22,
+        "lecture_count": 152,
+        "duration": "21h 33m",
+        "language": "English",
+        "rating": 4.8,
+        "rating_count": 1812,
+        "category": "Development",
+        "subcategory": "Mobile Engineer"
+    }
+}
